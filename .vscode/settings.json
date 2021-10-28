@@ -1,0 +1,10 @@
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/natsu/files/cpp/olc/olcpixg1",
+      "binaryPath": "/home/natsu/files/cpp/olc/olcpixg1/out",
+      "binaryArgs": []
+    }
+  ]
+}
